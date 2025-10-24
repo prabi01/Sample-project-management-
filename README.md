@@ -16,3 +16,10 @@ To demonstrate Agile workflow using GitHub tools such as Issues, Kanban Board, a
 - Display result
 
 
+#how to run
+1.**clone the repository**
+https://github.com/prabi01/Sample-project-management-/edit/main/README.md
+2.**open the folder in your system**
+cd sample-project-management
+3.**run the python program**
+python main.py
